@@ -1,3 +1,3 @@
-LOINC is the international standard for identifying health measurements, observations, and documents.
+**LOINC is the international standard for identifying health measurements, observations, and documents.**
 
 [Regenstrief Institute, Inc.](http://regenstrief.org/) serves as the standards development organization (SDO) for LOINC. The LOINC team at Regenstrief maintains the LOINC database and supporting documentation, processes submissions and edits to the content, develops and curates accessory content (descriptions, hierarchies, other attributes, etc), develops the RELMA mapping program, and coordinates LOINC releases. In addition, Regenstrief continues to cultivate the LOINC community worldwide.
